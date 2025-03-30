@@ -1,0 +1,2 @@
+Adicionando este texto no github para aprender a ferramenta de edição diretamente no github 
+para em seguida utilizar o comando git pull no terminal local
