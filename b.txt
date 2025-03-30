@@ -1,1 +1,3 @@
 Adicionando este texto para testar git add/ git commit/ git push/ git pull e git clone 
+
+tarefa 552 para testar git log
