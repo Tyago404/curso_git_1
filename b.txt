@@ -4,3 +4,8 @@ tarefa 552 para testar git log
 
 
 testando git reset --hard
+
+
+git checkout
+git checkout
+git checkout
