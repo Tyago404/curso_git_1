@@ -3,3 +3,5 @@ para em seguida utilizar o comando git pull no terminal local
 
 
 Enviando a funcinalidade X
+
+Enviando a funcionalidade Y
